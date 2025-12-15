@@ -11,7 +11,7 @@
 
 | Metric | Value | Assessment |
 |--------|-------|------------|
-| **Total Return** | **12.0%** | Realistic & Achievable |
+| **Total Return** | **12.0%** | Achived |
 | **Sharpe Ratio** | **2.35** | Excellent (Top-Tier) |
 | **Win Rate** | **54.95%** | Consistent Edge |
 | **Max Drawdown** | **-4.23%** | Well-Controlled Risk |
