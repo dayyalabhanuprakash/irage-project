@@ -21,11 +21,11 @@
 
 ```
 iRage/
-├── code/           # Core Python code
-├── docs/           # Documentation
-├── scripts/        # Execution scripts
-├── train/          # Training data (111 trading days)
-└── README.md       # This file
+├── code/                        # Core Python code
+├── final_submission//           # Documentation
+├── scripts/                     # Execution scripts
+├── train/                       # Training data (111 trading days)
+└── README.md                    # This file
 
 ## Performance Summary
 
@@ -39,4 +39,4 @@ iRage/
 
 ## Documentation
 
-See `docs/` folder for complete documentation.
+See `final_submission//` folder for complete documentation.
