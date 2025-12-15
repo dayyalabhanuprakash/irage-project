@@ -1,5 +1,7 @@
 # iRage - Intraday Predictive Modeling Framework
 
+## Please download and use data as it is (folder name - train with 111 days data).
+
 ## Quick Start
 
 1. Create environment:
